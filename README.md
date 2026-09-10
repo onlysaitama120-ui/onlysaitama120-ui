@@ -52,17 +52,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=onlysaitama120-ui&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlysaitama120-ui&layout=compact&theme=radical" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=onlysaitama120-ui&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
