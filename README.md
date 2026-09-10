@@ -56,9 +56,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onlysaitama120-ui&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=onlysaitama120-ui&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onlysaitama120-ui&layout=compact&theme=tokyonight)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlysaitama120-ui&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
 
@@ -77,7 +81,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/onlysaitama120-ui)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:onlysaitama120@gmail.com)
 
 </div>
 
